@@ -1,7 +1,7 @@
 ## dto
 
 ```php 
-composer require guanhui07/dto
+composer require guanhui07/dto dev-main
 ```
 
 
