@@ -1,5 +1,6 @@
 ## dto
 
+## 定义dto类
 ```php
 
 use Guanhui07\BaseDto;
@@ -29,7 +30,7 @@ class MsgGiftDto extends BaseDto
 
 ```
 
-
+## 使用dto 传参 
 ```php
 $giftDto = new MsgGiftDto([
     'id' => 1,
