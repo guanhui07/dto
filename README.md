@@ -1,5 +1,10 @@
 ## dto
 
+```php 
+composer require guanhui07/dto
+```
+
+
 ## 定义dto类
 ```php
 
