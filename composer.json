@@ -1,0 +1,20 @@
+{
+    "name": "guanhui07/dto",
+    "description": "dto,entity",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Guanhui07\\Dto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "yangminghui",
+            "email": "guanhui07@gmailc.om"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+          "php": ">7.0"
+    }
+}
